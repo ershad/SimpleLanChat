@@ -1,1 +1,6 @@
 A minimal chat client that can be user over LAN
+
+Required packages:
+
+* notify-send
+* mtail (if you want to see messages continuously as of in a decent chat client ;) )
