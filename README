@@ -4,3 +4,6 @@ Required packages:
 
 * notify-send
 * mtail (if you want to see messages continuously as of in a decent chat client ;) )
+
+
+Released under the MIT License.
